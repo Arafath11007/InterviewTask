@@ -1,7 +1,7 @@
 ##Installation and configuration
 
 - Clone the code using the collowing command 
-    git clone https://github.com/Arafath11007/InterviewTask.git
+    "git clone https://github.com/Arafath11007/InterviewTask.git"
 - Open CLI inside the project route directory and run the following commands
     composer install // to install composer packages
     php artisa migrate // to run the database imgration
